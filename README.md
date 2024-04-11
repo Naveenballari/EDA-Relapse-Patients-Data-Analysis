@@ -14,8 +14,8 @@ The prediction of the relapse period will help the medical expertise provide the
 Data comprises of patient's socioeconomic information including employment, education, income, marriage details, family details, alcohol and other addiction details.<br>
 <br>
 #### Graphical analysis can observed in the shared presentation.
-<br>
-##Conclusion
+
+## Conclusion
 The dataset mainly concentrates on patients having agricultural background.<br>
 The educational level was found to be maximum of level 3 that is, 8th, 9th and 10th.<br>
 Majority of the patients had relapsed only once, that is 179 patients out of 203, this data was sampled for further analysis.<br>
